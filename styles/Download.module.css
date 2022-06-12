@@ -1,0 +1,19 @@
+.downloadcontainerbg {
+    background-color: white;
+  }
+  .downloadcomponent {
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .imgdownload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .imgdownload img {
+    width: 150px;
+  }
+  

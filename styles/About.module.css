@@ -1,0 +1,16 @@
+.about-container-bg {
+    background-color: white;
+  }
+  .about-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .btncustom {
+    background-color: tomato;
+    color: white;
+  }
+  .btncustom:hover {
+    color: white;
+  }

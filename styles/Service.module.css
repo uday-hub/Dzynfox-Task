@@ -1,0 +1,22 @@
+.servicecontainer {
+    min-height: 50vh;
+   
+  }
+  .serviceimg {
+    width: 200px;
+  }
+  .servicecontainerbg {
+    background-color: white;
+    padding-top: 100px;
+   
+  }
+ @media screen and (max-width:768px) {
+  .servicecontainerbg {
+    padding-top: 350px;
+  }
+ }
+ @media screen and (max-width:376px) {
+  .servicecontainerbg {
+    padding-top: 250px;
+  }
+ }
